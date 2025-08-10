@@ -81,8 +81,8 @@ The insights aim to help customers and airlines make smarter decisions.
 ---
 
 ## Team Contributions
-- **Yadvendra Singh Dhakad** – Team lead,SQL queries, EDA, and visualizations.
-- **Ashutosh Rawat** – Data cleaning and preprocessing.
+- **Yadvendra Singh Dhakad** – Team lead,SQL queries and EDA.
+- **Ashutosh Rawat** – Data cleaning and preprocessing,visualizations.
 - **Abhay Tiwari** – Statistical tests and interpretations.
 
 ---
